@@ -33,4 +33,10 @@ class Student extends Model
     {
         return $this->hasMany(Behavior::class);
     }
+
+    public function notes()
+    {
+        return $this->hasMany(Note::class);
+    }
+
 }
