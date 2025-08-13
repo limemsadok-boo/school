@@ -9,4 +9,5 @@ return [
     'health' => 'الحالات الصحية',
     'code' => 'رمز',
     'health_student' => 'كشف الحالات الصحية',
+    'student_classe' => 'كشف الاسماء',
 ];
